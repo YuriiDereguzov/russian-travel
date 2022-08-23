@@ -1,0 +1,21 @@
+.place-container {
+    padding: 92px 0 12px;
+}
+
+@media screen and (max-width: 1024px) {
+    .place-container {
+        padding: 92px 48px 12px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .place-container {
+        padding: 88px 24px 12px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .place-container {
+        padding: 64px 0 0;
+    }
+}

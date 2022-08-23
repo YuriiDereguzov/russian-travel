@@ -1,0 +1,23 @@
+.place {
+    display: grid;
+    max-width: 984px;
+    grid-template-columns: repeat(2, 1fr);
+    margin: 0 auto;
+    padding: 0 0 80px;
+}
+
+@media screen and (max-width: 617px) {
+    .place {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .place {
+        padding: 0 0 50px;
+    }
+
+    .place:last-of-type {
+        padding: 0;
+    }
+}
