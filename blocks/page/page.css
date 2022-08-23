@@ -2,7 +2,7 @@
     font-family: "inter";
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    text-rendering: optimizelegibility;
+    text-rendering: optimizeLegibility;
     background-color: #2a2c2f;
     color: #FFFFFF;
     max-width: 1280px;
