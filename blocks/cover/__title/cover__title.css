@@ -4,12 +4,14 @@
     line-height: 87%;
     margin: 0 auto;
     padding: 0 0 32px;
+    max-width: 552px;
 }
 
 @media screen and (max-width: 617px) {
     .cover__title {
         font-size: 32px;
         line-height: 1.09;
+        max-width: 245px;
     }
 }
 
