@@ -21,6 +21,11 @@
     transition: opasity 0.3s;
 }
 
+.cover:hover::before {
+    opacity: 0.8;
+    transition: ease-in-out 0.3s;
+  }
+
 @media screen and (max-width: 1024px) {
     .cover {
         min-height: 640px;

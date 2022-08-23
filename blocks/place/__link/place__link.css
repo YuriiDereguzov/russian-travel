@@ -8,4 +8,6 @@
 }
 .place__link:hover {
     text-decoration: underline;
+    opacity: 0.8;
+    transition: ease-in-out 0.3s;
 }
