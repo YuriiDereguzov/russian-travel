@@ -7,6 +7,7 @@
     margin: 0 48px;
     position: relative;
     background-size: cover;
+    text-decoration: none;
 }
 
 .cover::before {
