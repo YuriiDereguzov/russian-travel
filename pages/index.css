@@ -25,9 +25,9 @@
 @import url(../blocks/header/__lang-links/header__lang-links.css);
 @import url(../blocks/header/__logo/header__logo.css);
 
+@import url(../blocks/intro/__amount/intro__amount.css);
 @import url(../blocks/intro/__list-item/intro__list-item.css);
 @import url(../blocks/intro/__list/intro__list.css);
-@import url(../blocks/intro/__span/intro__span.css);
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__title/intro__title.css);
 
@@ -46,4 +46,4 @@
 @import url(../blocks/place/__website/place__website.css);
 
 /*Структура для модификаторов*/
-@import url(../blocks/header/__lang-link/_decorative/header__lang-link_decorative.css);
+@import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
